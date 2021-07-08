@@ -14,5 +14,5 @@ Berikut merupakan screenshot hasil dari program aplikasi chat
 
 # Flowchart Diagram
 Berikut Flow Chart alur cara mengirim pesannya :
-![TCP Chat FlowChart](https://user-images.githubusercontent.com/63990352/124854098-22cdbe80-dfd1-11eb-8039-86cf08889a81.png)
+![TCP Chat FlowChart (1)](https://user-images.githubusercontent.com/63990352/124954845-b7233a00-e040-11eb-8b49-54df10fd68dc.png)
 
